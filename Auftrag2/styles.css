@@ -5,6 +5,7 @@ html {
     box-sizing: border-box; /* To include padding and border to the width and heigth when calculating the size of an element */
     line-height: 1.25em; 
     font-family:'Montserrat', sans-serif;
+    height: 100vhgit ;
   }
   
   *, *:before, *:after { /* To ensure consistent sizing through doc */
@@ -58,7 +59,7 @@ html {
     color: #f8f9fa; 
     width: 100%;
     max-width: 1200px;
-    margin-top: 30px;
+    margin-top: 80px;
     
   }
 
